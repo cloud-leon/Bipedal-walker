@@ -1,7 +1,3 @@
-Here’s a basic README file for the uploaded project, which appears to involve training models in the "BipedalWalker-v3" environment using various techniques. It seems to utilize genetic algorithms (GA) for optimizing model weights.
-
----
-
 # Bipedal Walker Training with Genetic Algorithms
 
 ## Overview
